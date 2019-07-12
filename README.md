@@ -12,3 +12,5 @@ washington.csv
 chicago.csv
 
 ### Credits
+https://github.com/GoogleChrome/lighthouse
+https://medium.com/@steveamaza/how-to-write-a-proper-git-commit-message-e028865e5791
