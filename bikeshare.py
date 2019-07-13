@@ -22,7 +22,7 @@ def get_filters():
         city = input ('please enter the name of the city you would like to analize\n\n')
         city = city.lower()
         if city not in ['chicago','new york city','washington']:
-            print ('Ooops, we dont have a city named {}'.format(city))
+            print ('Ooops, incorrect entry')
             continue
         else:
             break
