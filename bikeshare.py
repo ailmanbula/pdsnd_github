@@ -207,7 +207,7 @@ def user_stats(df):
 
 
     print("\nThis took %s seconds." % (time.time() - start_time))
-    print('-'*40)
+    print('-'*20)
 
 def disp_raw_data(df):
 
