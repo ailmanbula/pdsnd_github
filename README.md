@@ -1,15 +1,16 @@
 ### Date created
-Include the date you created this project and README file.
-
+12th July 2019
 ### Project Title
-Replace the Project Title
-
+udacity data science nano degree final project(bikeshare)
 ### Description
-Describe what your project is about and what it does
+This is a project to analyze bikeshare data from three US cities.
 
 ### Files used
-Include the files used
+bikeshare.py
+new_york_city.csv
+washington.csv
+chicago.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+https://github.com/GoogleChrome/lighthouse
+https://medium.com/@steveamaza/how-to-write-a-proper-git-commit-message-e028865e5791

@@ -152,7 +152,7 @@ def trip_duration_stats(df):
     start_time = time.time()
 
     #this displays total travel time; this converts the total time traveled
-    #in days by deviding the totl tim in seconds by 86400
+    #in days by deviding the total time in seconds by 86400.
 
     total_time_traveled = sum(df['Trip Duration'])
     print('Total travel time (in days):', total_time_traveled/86400, " Days")
